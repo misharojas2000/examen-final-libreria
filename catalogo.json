@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "la casa de los espiritus",
+    "autor": "isabel allende",
+    "precio": 365,
+    "anioDePublicacion": "1982"
+  },
+  {
+    "titulo": "el arte de la guerra",
+    "autor": "sun tzu",
+    "precio": 90,
+    "anioDePublicacion": 2000
+  },
+  {
+    "titulo": "habitos atomicos",
+    "autor": "james clear",
+    "precio": 210,
+    "anioDePublicacion": "2018"
+  }
+]

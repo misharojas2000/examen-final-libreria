@@ -1,0 +1,24 @@
+{
+  "name": "sistema-de-libreria-en-consola",
+  "version": "1.0.0",
+  "description": "Parcial II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misharojas2000/Sistema-de-libreria-en-consola.git"
+  },
+  "author": "Fernanda Monzón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misharojas2000/Sistema-de-libreria-en-consola/issues"
+  },
+  "homepage": "https://github.com/misharojas2000/Sistema-de-libreria-en-consola#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
